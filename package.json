@@ -5,7 +5,8 @@
   "author": "DanielBarros854 <91908602+DanielBarros854@users.noreply.github.com>",
   "license": "MIT",
   "scripts": {
-    "test": "jest"
+    "test": "jest",
+    "test:staged": "jest"
   },
   "devDependencies": {
     "@swc-node/jest": "^1.5.2",
