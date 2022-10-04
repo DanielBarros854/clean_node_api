@@ -1,4 +1,4 @@
-export default {
+module.exports = {
   preset: '@swc-node/jest',
 
   roots: ['<rootDir>/src'],
